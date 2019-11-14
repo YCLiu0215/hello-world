@@ -1,4 +1,4 @@
-# hello-world\d
+# hello-world
 
-Greetings,
+Greetings, \n
 I am Liu. I love volleyball.
